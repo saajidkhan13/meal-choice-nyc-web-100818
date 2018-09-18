@@ -3,5 +3,5 @@
 
 
 def meal_choice (name ="meat")
-  puts "#{type}"
+  puts "#{name}"
 end
